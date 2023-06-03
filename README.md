@@ -1,3 +1,3 @@
 # goit-node-hw-01
 
-![plot](./imgs/screenshot-1.png)
+!['node index.js --action="list"'](./imgs/screenshot-1.png)
