@@ -1,3 +1,3 @@
 # goit-node-hw-01
 
-![plot](./screens/screen-1.png)
+![plot](./imgs/screenshot-1.png)
